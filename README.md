@@ -1,4 +1,13 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://i.imgur.com/TPxZynh.gif">
+  <br>
+  <samp>
+    Hi :wave: thanks for stopping by
+    <br> I'm an engineer based in Australia
+    <br>
+    Currently exploring cloud computing :sparkles:<br><br>
+  </samp>
+</p>
 
 <!--
 **ryotokuro/ryotokuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
