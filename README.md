@@ -3,9 +3,12 @@
   <br>
   <samp>
     Hi :wave: thanks for stopping by
-    <br> I'm an engineer based in Australia
     <br>
-    Currently exploring cloud computing :sparkles:<br><br>
+    I'm an engineer based in Australia
+    <br>
+    Currently exploring cloud computing :sparkles:
+    <br>
+    Also <a href="https://www.linkedin.com/in/taiyue/">looking for work opportunities at the moment</a> 🔍
   </samp>
 </p>
 
