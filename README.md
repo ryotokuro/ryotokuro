@@ -4,8 +4,6 @@
   <samp>
     Hi :wave: thanks for stopping by
     <br>
-    I'm an engineer based in Australia
-    <br>
-    Currently exploring cloud computing :sparkles:
+    I'm an AWS Technical Trainer based in Sydney :sparkles:
   </samp>
 </p>
